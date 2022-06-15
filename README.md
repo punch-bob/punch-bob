@@ -17,5 +17,6 @@
 [![Vkontakte Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=for-the-badge&logo=appveyor&logo=Vkontakte&logoColor=white&color=0028cc)](https://vk.com/id177951126)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/rybalkokonstantin)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=critical)](mailto:rybalkokostyan@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0088cc?style=for-the-badge&logo=appveyor&logo=Discord&logoColor=white&color=blueviolet)](https://discordapp.com/users/433216752738893824/)
 
 ![](https://komarev.com/ghpvc/?username=punch-bob)
