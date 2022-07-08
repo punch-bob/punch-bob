@@ -5,7 +5,9 @@
 
 🏫 Now I’m a 3rd year student at the Faculty of Information Technology at Novosibirsk State University.
 
-🌱 I’m currently learning: Java ☕
+📒 GPA: 4.7/5.0
+
+🌱 I’m currently learning: Java ☕, Golang 🦉, Docker 🐋
 
 ### 📈 My profile stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punch-bob&theme=tokyonight)
