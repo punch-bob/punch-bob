@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Kostya <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center"> Hi, I'm Kostya 👋
 
 ### About me:
 🌵 I’m 19 years old 
