@@ -7,7 +7,7 @@
 
 📒 GPA: 4.7/5.0
 
-🌱 I’m currently learning: Java ☕, Golang 🦉, Docker 🐋
+🌱 I’m currently learning: Java ☕, Vue.js, Docker 🐋
 
 ### 📈 My profile stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punch-bob&theme=tokyonight)
