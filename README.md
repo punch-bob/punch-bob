@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Kostya 👋
 
 ### About me:
-🌵 I’m 19 years old 
+🌵 I’m 20 years old 
 
 🏫 Now I’m a 3rd year student at the Faculty of Information Technology at Novosibirsk State University.
 
